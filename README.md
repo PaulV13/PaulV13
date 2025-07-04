@@ -11,7 +11,7 @@
 <!--Intro start-->
 <h3 align="left">
         <ul>
-            <li>🔭 Programador web, actualmente estoy trabajando en React, Nestjs, PostgreSQL.</li>
+            <li>🔭 Programador backend, actualmente estoy trabajando con C#, .NET Core, PostgreSQL.</li>
             <li>🤔 Estoy interesado en el desarrollo web back-end</li>
             <li>📫 Me puedes contactar por: paulvidart@gmail.com</li>
         </ul>
