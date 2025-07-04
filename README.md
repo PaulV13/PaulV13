@@ -31,11 +31,11 @@
   <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typeScript" height="50" width="50" /></a>
   <a href="" target="blank"><img align="center" src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" alt="css" height="50" width="50" /></a>
   <a href="" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="react" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/2048px-C_Sharp_Logo_2023.svg.png" alt="c sharp" height="50" width="50" /></a>
   <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgre" height="50" width="50" /></a>
   <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" alt="tailwind" height="50" width="50" /></a>
   <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" height="50" width="50" /></a>
   <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/800px-GitHub_Invertocat_Logo.svg.png" alt="github" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/2048px-C_Sharp_Logo_2023.svg.png" alt="c sharp" height="50" width="50" /></a>
 </p>
 
 ----------------------------------------------------------------------
